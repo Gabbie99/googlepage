@@ -16,7 +16,7 @@ function Mygoogle() {
             <img src={googleimages} alt="google" /><br />
             <input type="search" name="search" id="search" /><br />
             <button className='gs'>Google Search</button>&nbsp; <button className='gs'>I'm Feeling Lucky</button>
-            <p>Google offered in: <span>Hausa Igbo Edo Yoruba Nigrian Pidgin</span></p>
+            <p>Google offered in: <span className='lang'>Hausa Igbo Edo Yoruba Nigrian Pidgin</span></p>
         </div>
             <footer>
                     <p className='ja'>Nigeria</p> <hr />
@@ -38,9 +38,10 @@ function Mygoogle() {
                         <li>Privacy</li>
                         <li>Terms</li>
                         <li>Settings</li>
-                    </ul>
+                    </ul> 
                 </div>
                 </div>
+                <p id='copy'>&copy;Copyright Gabbie A. Online Services 2022 | Developed by <span>Alexander Gabrielle</span></p>
             </footer>
     </div>
   )

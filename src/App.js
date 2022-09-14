@@ -1,5 +1,5 @@
 import './App.css';
-import Mygoogle from './Mygoogle';
+import Mygoogle from './Google/Mygoogle';
 
 function App() {
   return (
