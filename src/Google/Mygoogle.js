@@ -7,7 +7,7 @@ function Mygoogle() {
     <div>
         <header className='head'>
             <ul id='first-ul'>
-                <li>Gmail</li>
+                <li>Gmails</li>
                 <li>Images</li>
                 <button className='g'>G</button>
             </ul>
@@ -23,7 +23,7 @@ function Mygoogle() {
                 <div className='wrap-div'>
                     <div className='list1'>
                     <ul>
-                    <li>About</li>
+                    <li>About Us</li>
                     <li>Advertising</li>
                     <li>Business</li>
                     <li>HowSearchworks</li>
